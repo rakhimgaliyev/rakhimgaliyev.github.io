@@ -1,0 +1,2 @@
+# rakhimgaliyev.github.io
+Резюме

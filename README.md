@@ -1,2 +1,2 @@
-# [rakhimgaliyev.github.io](https://rakhimgaliyev.github.io/")
+# [rakhimgaliyev.github.io](https://rakhimgaliyev.github.io/)
 Резюме

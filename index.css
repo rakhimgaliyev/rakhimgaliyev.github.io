@@ -1,0 +1,17 @@
+.main {
+    width: 100%;
+    height: 100%;
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.main__row {
+    width: 100%;
+    height: 300px;
+}
+
+.main__row_header {
+    width: 100%;
+    height: 300px;
+}

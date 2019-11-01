@@ -11,7 +11,7 @@ body {
 }
 
 .main__element {
-    height: 33vh;
+    display: flex;
 }
 
 .main__element:nth-child(4n - 3) {
@@ -30,23 +30,33 @@ body {
     background-color: #fbfbfb;
 }
 
-
 .main__element__header {
     width: 30%;
-    height: 30vw;
+    height: 30vh;
+
+    justify-content: flex-end;
 }
 
 .main__element__description {
     width: 70%;
-    height: 30vw;
+    height: 30vh;
 }
 
 .main__element__header-headline {
-    width: 30%;
     height: 100vh;
+
+    align-items: center;
 }
 
 .main__element__description-headline {
-    width: 70%;
     height: 100vh;
+}
+
+.main__element__header__avatar {
+    width: 14vw;
+    height: 14vw;
+    min-width: 100px;
+    min-height: 100px;
+
+    border-radius: 1000px;
 }
